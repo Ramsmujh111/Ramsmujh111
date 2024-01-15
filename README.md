@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramsmujh kumar</h1>
-<h3 align="center">A passionate Full stack developer OR mobile Applicatins developer from India</h3>
+<h3 align="center">A passionate Full stack developer OR Learning About the mobile Applicatins developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsmujh111&label=Profile%20views&color=0e75b6&style=flat" alt="ramsmujh111" /> </p>
 
